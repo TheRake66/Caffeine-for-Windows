@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("Caffeine for Windows")]
-[assembly: AssemblyDescription("Disable the screensaver and auto suspend")]
+[assembly: AssemblyDescription("Disable the screensaver and auto suspend.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Caffeine for Windows")]

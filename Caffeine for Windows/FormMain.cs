@@ -73,7 +73,7 @@ namespace Caffeine_for_Windows
 
         private void helpToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start("https://github.com/");
+            Process.Start("https://github.com/TheRake66/Caffeine-for-Windows");
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
