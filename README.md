@@ -1,9 +1,7 @@
 <div align="center">
     <br>
     <img src="./img/logo.png" alt="name" width=200>
-    <br>
-    <br>
-    <a href="./releases/download/release/Caffeine.for.Windows.zip" target="_blank">
+    <a href="https://github.com/TheRake66/Caffeine-for-Windows/releases/download/release/Caffeine.for.Windows.zip" target="_blank">
         <b>• Download •</b>
     </a>
     <br>
